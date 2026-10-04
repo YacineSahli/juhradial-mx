@@ -30,6 +30,7 @@ _bmad-output/
 bmad-custom-src/
 
 # Internal docs kept private (not shipped publicly)
+AGENTS.md
 CLAUDE.md
 DESIGN.md
 PRODUCT.md
